@@ -1,9 +1,9 @@
 Cognifyz Technologies Data Analysis
 
 
+📂 Repository Overview
 Welcome to the repository for my Data Analyst Internship at Cognifyz Technologies. This repository documents my progress and solutions across the three levels of tasks assigned during the internship. Each task is aimed at enhancing my data analysis skills and problem-solving capabilities.
 
-📂 Repository Overview
 
 🗂️ Structure
 
@@ -19,9 +19,11 @@ The repository is organized as follows:
 
 Level 1: Task 1 solution is completed and included in this repository.
 
-Level 2: Pending.
+Level 1:  Task 2 solution is completed and included in this repositor.
 
-Level 3: Pending.
+Level 1:  Task 3 solution is completed and included in this repository.
+
+Level 1:  Task 4 solution is completed and included in this repository.
 
 ✨ Key Features
 
